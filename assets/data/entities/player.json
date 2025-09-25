@@ -1,0 +1,68 @@
+{
+  "id": "player",
+  "texture": "steve.png",
+  "textureCols": 16,
+  "textureRows": 16,
+  "scale": 0.25,
+  "models": {
+    "right_arm": {
+      "offset": [
+        3,
+        3,
+        1.5
+      ],
+      "pivot": [
+        0,
+        -1.5,
+        0
+      ],
+      "rotation": [
+        145,
+        0,
+        45
+      ],
+      "model": "box",
+      "width": 1,
+      "height": 3,
+      "depht": 1,
+      "uvs": {
+        "back": [
+          13,
+          14,
+          5,
+          8
+        ],
+        "front": [
+          11,
+          12,
+          5,
+          8
+        ],
+        "left": [
+          12,
+          13,
+          5,
+          8
+        ],
+        "right": [
+          10,
+          11,
+          5,
+          8
+        ],
+        "top": [
+          11,
+          12,
+          4,
+          5
+        ],
+        "bottom": [
+          12,
+          13,
+          4,
+          5
+        ]
+      }
+    }
+  }
+}
