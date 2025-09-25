@@ -47,7 +47,7 @@ jeux 3D, de génération procédurale de terrain et d'optimisation des performan
 
 1. **Cloner le repository**
    ```bash
-   git clone https://github.com/[votre-username]/RSCraft.git
+   git clone https://github.com/FougereBle/rscraft-public.git
    cd RSCraft
    ```
 
